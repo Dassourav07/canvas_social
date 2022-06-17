@@ -1,0 +1,15 @@
+
+.big-banner{
+
+    background-image:url('../img/wa.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+body {
+    margin: 0;
+    overflow: hidden;
+    background-color: rgb(112, 231, 231);
+    color: rgb(252, 248, 246);
+}
