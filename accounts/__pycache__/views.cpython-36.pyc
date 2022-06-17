@@ -1,0 +1,8 @@
+3
+wA[8  ã               @   sD   d dl mZ d dlmZ d dlmZ ddlm Z  G dd „ d eƒZdS )	é    )Úrender)Úreverse_lazy)Ú
+CreateViewé   )Úformsc               @   s   e Zd ZejZedƒZ dZdS )ÚSignUpÚloginzaccounts/signup.htmlN)	Ú__name__Ú
+__module__Ú__qualname__r   ZUserCreateFormÚ
+form_classr   Ú
+success_urlÚ
+template_name© r   r   ú^/home/baxtor95/Django_FS_Course/My_Projects/simple_social_clone/simplesocial/accounts/views.pyr       s   r    N)	Údjango.shortcutsr   Ú
+django.urlsr   Zdjango.views.genericr   Ú r   r    r   r   r   r   Ú<module>   s   

@@ -1,0 +1,4 @@
+3
+{uA[Ğ   ã               @   s6   d dl mZ d dlmZ G dd„ dejjejjƒZdS )é    )Úmodels)Úauthc               @   s   e Zd Zdd„ ZdS )ÚUserc             C   s   d| j › S )Nú@)Úusername)Úself© r   ú_/home/baxtor95/Django_FS_Course/My_Projects/simple_social_clone/simplesocial/accounts/models.pyÚ __str__    s    zUser.__str__N)Ú__name__Ú
+__module__Ú__qualname__r
+   r   r   r   r	   r      s   r   N)Ú	django.dbr   Zdjango.contribr   r   ÚPermissionsMixinr   r   r   r	   Ú<module>   s   

@@ -1,0 +1,18 @@
+3
+"'B[Õ  ã               @   sB   d dl mZ d dlZd dlmZmZ d dl ZG dd„ dejƒZdS )é    )ÚsettingsN)Ú
+migrationsÚmodelsc            
+   @   sl   e Zd ZdZdgZejdde jde	j
+j j
+jddde
+jd fgdd	dd
+œd
+e jfde	jjj jƒ fgd
+gZdS )Ú	MigrationTÚauthÚ$0009_alter_user_last_name_max_lengthÚUserÚuser_ptrF)Úauto_createdÚ	on_deleteÚ
+parent_linkÚ
+primary_keyÚ	serializeÚtoÚuserÚusers)Úverbose_nameÚverbose_name_pluralÚabstractz	auth.userÚ objects)ÚnameÚfieldsÚ optionsÚbasesÚmanagersN)r   r    )Ú__name__Ú
+__module__Ú__qualname__Ú initialÚdependenciesr   Ú
+CreateModelr   Ú
+OneToOneFieldÚdjangoÚdbÚdeletionÚ CASCADEr   ÚAUTH_USER_MODELÚModelÚ contribr   Ú
+UserManagerÚ
+operations© r+   r+   úp/home/baxtor95/Django_FS_Course/My_Projects/simple_social_clone/simplesocial/accounts/migrations/0001_initial.pyr   	   s   $r   )	Ú
+django.confr   Údjango.contrib.auth.modelsr"   Ú	django.dbr   r   Údjango.db.models.deletionr   r+   r+   r+   r,   Ú<module>   s   

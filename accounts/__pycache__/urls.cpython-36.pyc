@@ -1,0 +1,12 @@
+3
+"B[‡  ã                @   sj   d dl mZ d dlmZ ddlmZ dZedej jdd dd	ed
+ej	jƒ d
+d	edej
+jƒ d
+d	gZ
+dS )é    )Úpath)Úviewsé   Úaccountszlogin/zaccounts/login.html)Ú
+template_nameÚlogin)Únamez logout/Úlogoutz signup/ZsignupN)Ú
+django.urlsr   Údjango.contrib.authr   Z
+auth_viewsÚ Úapp_nameÚ	LoginViewÚ as_viewÚ
+LogoutViewZSignUpÚ
+urlpatterns© r   r   ú]/home/baxtor95/Django_FS_Course/My_Projects/simple_social_clone/simplesocial/accounts/urls.pyÚ<module>   s   
