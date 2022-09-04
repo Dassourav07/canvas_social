@@ -9,4 +9,4 @@ pillow==9.2.0
 psycopg2==2.8.6
 bootstrap4
 misaka
-django-braces 1.15.0
+django-braces==1.15.0
