@@ -1,1 +1,1 @@
-web: gunicorn conferencemanagement.wsgi
+web: gunicorn simplesocial.wsgi
