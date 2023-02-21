@@ -1,2 +1,2 @@
-web: gunicorn simplesocial.wsgi --log-file - 
+web: gunicorn simplesocial.wsgi 
 heroku ps:scale web=1
